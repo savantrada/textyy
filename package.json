@@ -1,0 +1,23 @@
+{
+  "name": "textyy",
+  "version": "1.0.0",
+  "description": "It is a  simple way to transform your text into beautiful text.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/savantrada/textyy.git"
+  },
+  "keywords": [
+    "text",
+    "effects"
+  ],
+  "author": "savan trada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/savantrada/textyy/issues"
+  },
+  "homepage": "https://github.com/savantrada/textyy#readme"
+}

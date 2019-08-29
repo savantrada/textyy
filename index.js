@@ -1,4 +1,4 @@
-function textyy(options){
+module.exports.textyy = (options) => {
     let textyyGlitch = document.querySelectorAll(".textyy-glitch");
     textyyGlitch.forEach(textyyGlitch => {
         textyyGlitch.style.textDecoration = `none`;
